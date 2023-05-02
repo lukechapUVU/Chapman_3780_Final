@@ -14,7 +14,7 @@
 </script>
 <header class="navbar flex">
     <a href="/dogs" class="btn btn-ghost normal-case text-xl">Dogs</a>
-    <a href="/bookings" class="btn btn-ghost normal-case text-xl">Upcoming Bookings</a>
+    <!-- <a href="/bookings" class="btn btn-ghost normal-case text-xl">Upcoming Bookings</a> -->
     <a href="/faq" class="btn btn-ghost normal-case text-xl">FAQ</a>
     <div class="ml-auto mr-4">
         <label for="profileModal" class="btn btn-lg btn-circle btn-ghost">
